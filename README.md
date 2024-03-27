@@ -6,7 +6,7 @@
         <th>Download</th>
         <th>Tested</th>
     </tr>
-        <td>0.2.1</td>
+        <td>0.2.1(alpha)</td>
         <td></td>
         <td>YES(1)</td>
 </table>
