@@ -88,4 +88,4 @@
 </table>
 
 ## Decription
-YES(-1) = Doesnt work; YES(1) = works
+YES(0) = Doesnt work; YES(1) = works
