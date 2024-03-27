@@ -62,27 +62,27 @@
     </tr>
     </tr>
         <td>0.13.1(alpha)</td>
-        <td></td>
+        <td><a href="https://archive.org/download/minecraft-pocket-edition-versions-ipa/MCPE%200.13.1.ipa">Download</a></td>
         <td>YES(1)</td>
     </tr>
     </tr>
         <td>0.13.2(alpha)</td>
-        <td></td>
+        <td><a href="https://archive.org/download/minecraft-pocket-edition-versions-ipa/MCPE%200.13.2.ipa">Download</a></td>
         <td>YES(1)</td>
     </tr>
     </tr>
         <td>0.14(alpha)</td>
-        <td></td>
+        <td><a href="https://archive.org/download/minecraft-pocket-edition-versions-ipa/MCPE%200.14.0.ipa">Download</a></td>
         <td>YES(1)</td>
     </tr>
     </tr>
         <td>0.14.2(alpha)</td>
-        <td></td>
+        <td><a href="https://archive.org/download/minecraft-pocket-edition-versions-ipa/MCPE%200.14.2.ipa">Download</a></td>
         <td>YES(1)</td>
     </tr>
     </tr>
         <td>0.16.1(alpha)</td>
-        <td></td>
+        <td><a href="https://archive.org/download/minecraft-pocket-edition-versions-ipa/MCPE%200.16.1.ipa">Download</a></td>
         <td>YES(1)</td>
     </tr>
 </table>
