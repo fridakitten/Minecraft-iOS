@@ -1,5 +1,16 @@
 # Roblox Archive
 
+<style>
+    .na {
+        background-color: orange;
+    }
+    .yes {
+        background-color: green;
+    }
+    .no {
+        background-color: red;
+    }
+</style>
 <table>
     <tr>
         <th>Version</th>
@@ -11,7 +22,7 @@
         <td>1.0</td>
         <td>2011</td>
         <td><a href="2011/ROBLOX-1.0.ipa">Download</a></td>
-        <td>NO</td>
+        <td class="no">NO</td>
     </tr>
     <tr>
         <td>1.1.0</td>
