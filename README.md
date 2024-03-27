@@ -1,6 +1,6 @@
 # Roblox Archive
 
-<table border="1" cellpadding="5">
+<table>
     <tr>
         <th>Version</th>
         <th>Date</th>
