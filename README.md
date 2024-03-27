@@ -11,7 +11,7 @@
         <td>1.0</td>
         <td>2011</td>
         <td><a href="2011/ROBLOX-1.0.ipa">Download</a></td>
-        <td background-color=red>NO</td>
+        <td style="background-color: red;">NO</td>
     </tr>
     <tr>
         <td>1.1.0</td>
