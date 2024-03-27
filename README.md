@@ -21,4 +21,69 @@
         <td>2011</td>
         <td><a href="2011/ROBLOX-1.1.1.ipa">Download</a></td>
     </tr>
+    <tr>
+        <td>1.1.0</td>
+        <td>2011</td>
+        <td><a href="2011/ROBLOX-1.1.0.ipa">Download</a></td>
+    </tr>
+    <tr>
+        <td>1.1.1</td>
+        <td>2011</td>
+        <td><a href="2011/ROBLOX-1.1.1.ipa">Download</a></td>
+    </tr>
+        <tr>
+        <td>2.0.x</td>
+        <td>2012</td>
+        <td>Lost</td>
+    </tr>
+    <tr>
+        <td>2.1.0</td>
+        <td>2012</td>
+        <td>Lost</td>
+    </tr>
+    <tr>
+        <td>2.1.2</td>
+        <td>2012</td>
+        <td>Lost</td>
+    </tr>
+    <tr>
+        <td>2.1.2</td>
+        <td>2012</td>
+        <td><a href="2012/ROBLOX-2.1.2.ipa">Download</a></td>
+    </tr>
+    <tr>
+        <td>2.2.0</td>
+        <td>2012</td>
+        <td>Lost</td>
+    </tr>
+    <tr>
+        <td>2.2.1</td>
+        <td>2012</td>
+        <td>Lost</td>
+    </tr>
+    <tr>
+        <td>2.2.2</td>
+        <td>2012</td>
+        <td><a href="2012/ROBLOX-2.2.2.ipa">Download</a></td>
+    </tr>
+    <tr>
+        <td>2.3.0</td>
+        <td>2012</td>
+        <td>Lost</td>
+    </tr>
+    <tr>
+        <td>2.3.1</td>
+        <td>2012</td>
+        <td><a href="2012/ROBLOX-2.3.1.ipa">Download</a></td>
+    </tr>
+    <tr>
+        <td>2.4.0</td>
+        <td>2012</td>
+        <td>Lost</td>
+    </tr>
+    <tr>
+        <td>2.4.1</td>
+        <td>2012</td>
+        <td><a href="2012/ROBLOX-2.4.1.ipa">Download</a></td>
+    </tr>
 </table>
