@@ -7,7 +7,7 @@
         <th>Tested</th>
     </tr>
         <td>0.2.1(alpha)</td>
-        <td></td>
+        <td><a href="https://archive.org/download/minecraft-pocket-edition-versions-ipa/MCPE%200.2.1.ipa">Download</a></td>
         <td>YES(1)</td>
     </tr>
     </tr>
@@ -27,6 +27,61 @@
     </tr>
     </tr>
         <td>0.6(alpha)</td>
+        <td></td>
+        <td>YES(1)</td>
+    </tr>
+    </tr>
+        <td>0.7(alpha)</td>
+        <td></td>
+        <td>YES(1)</td>
+    </tr>
+    </tr>
+        <td>0.8(alpha)</td>
+        <td></td>
+        <td>YES(1)</td>
+    </tr>
+    </tr>
+        <td>0.9.5(alpha)</td>
+        <td></td>
+        <td>YES(1)</td>
+    </tr>
+    </tr>
+        <td>0.10(alpha)</td>
+        <td></td>
+        <td>YES(1)</td>
+    </tr>
+    </tr>
+        <td>0.12.3(alpha)</td>
+        <td></td>
+        <td>YES(1)</td>
+    </tr>
+    </tr>
+        <td>0.13.0(alpha)</td>
+        <td></td>
+        <td>YES(1)</td>
+    </tr>
+    </tr>
+        <td>0.13.1(alpha)</td>
+        <td></td>
+        <td>YES(1)</td>
+    </tr>
+    </tr>
+        <td>0.13.2(alpha)</td>
+        <td></td>
+        <td>YES(1)</td>
+    </tr>
+    </tr>
+        <td>0.14(alpha)</td>
+        <td></td>
+        <td>YES(1)</td>
+    </tr>
+    </tr>
+        <td>0.14.2(alpha)</td>
+        <td></td>
+        <td>YES(1)</td>
+    </tr>
+    </tr>
+        <td>0.16.1(alpha)</td>
         <td></td>
         <td>YES(1)</td>
     </tr>
