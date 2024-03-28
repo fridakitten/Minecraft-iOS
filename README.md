@@ -58,7 +58,7 @@
 </table>
 
 ## Decription
-YES(0) = Doesnt work; YES(1) = works
+Lost means that we only found encrypted ipas of the mcpe version. encrypted means that it doesnt work as long as someone decrpted it.
 
 ## Disclamer
 We are not and will never support piracy. So we wont host any minecraft ipas of minecraft-bedrock.
