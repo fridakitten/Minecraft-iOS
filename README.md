@@ -332,6 +332,12 @@
         <td>YES</td>
         <td>8.0</td>
     </tr>
+    <tr>
+        <td>0.16.2</td>
+        <td><a href="https://dekotas.org/MCPE/MCPE%200.16.2.ipa">Download</a></td>
+        <td>YES</td>
+        <td>8.0</td>
+    </tr>
 </table>
 
 ## Major
