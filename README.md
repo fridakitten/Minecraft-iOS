@@ -333,7 +333,7 @@
 </table>
 
 ## Decription
-Lost means that we only found encrypted ipas of the mcpe version. encrypted means that it doesnt work as long as someone decrpted it.
+Missing means that we only found encrypted ipas of the mcpe version. encrypted means that it doesnt work as long as someone decrpted it.
 
 ## Disclamer
 We are not and will never support piracy. So we wont host any minecraft ipas of minecraft-bedrock.
