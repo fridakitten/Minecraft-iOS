@@ -1,4 +1,4 @@
-# Minecraft-PE-iOS
+# MinecraftPE iOS
 
 ## Alpha
 <table>
