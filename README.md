@@ -183,6 +183,12 @@
         <td>5.1.1</td>
     </tr>
     <tr>
+        <td>0.11.1</td>
+        <td><a href="https://dekotas.org/MCPE/MCPE%200.11.1.ipa">Download</a></td>
+        <td>YES</td>
+        <td>5.1.1</td>
+    </tr>
+    <tr>
         <td>0.12</td>
         <td>Missing</td></td>
         <td>N/A</td>
