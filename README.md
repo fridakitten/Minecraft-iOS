@@ -196,9 +196,9 @@
     </tr>
     <tr>
         <td>0.12.1</td>
-        <td>Missing</td>
-        <td>N/A</td>
-        <td>N/A</td>
+        <td><a href="https://dekotas.org/MCPE/MCPE%200.12.1.ipa">Download</a></td>
+        <td>YES</td>
+        <td>5.1.1</td>
     </tr>
     <tr>
         <td>0.12.2</td>
