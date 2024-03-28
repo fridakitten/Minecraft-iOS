@@ -337,3 +337,6 @@ Missing means that we only found encrypted .ipa files of that version. Encrypted
 
 ## Disclamer
 We are not and will never support piracy. So we wont host any minecraft ipas of minecraft-bedrock.
+
+## Purpose
+This is only for educational purpose and to maintain the existence of Minecraft Pocket Edition as its important for us that it wont be lost media.
