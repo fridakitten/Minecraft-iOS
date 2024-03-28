@@ -40,7 +40,7 @@
     </tr>
     <tr>
         <td>0.3.1</td>
-        <td>Skipped</td>
+        <td>N/A</td>
         <td>N/A</td>
         <td>N/A</td>
     </tr>
