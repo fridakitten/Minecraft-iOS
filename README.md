@@ -89,3 +89,6 @@
 
 ## Decription
 YES(0) = Doesnt work; YES(1) = works
+
+## Disclamer
+We are not and will never support piracy. So we wont host any minecraft ipas of minecraft-bedrock.
