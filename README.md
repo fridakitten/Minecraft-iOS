@@ -214,7 +214,7 @@
     </tr>
     <tr>
         <td>0.13</td>
-        <td><a href="https://dekotas.org/MCPE/MCPE%200.13.ipa">Download</a></td>
+        <td><a href="https://dekotas.org/MCPE/MCPE%200.13.0.ipa">Download</a></td>
         <td>YES</td>
         <td>5.1.1</td>
     </tr>
