@@ -6,8 +6,14 @@
         <th>Download</th>
         <th>Tested</th>
     </tr>
+    </tr>
         <td>0.1.2(alpha)</td>
         <td><a href="https://dekotas.org/MCPE/MCPE%200.1.2.ipa">Download</a></td>
+        <td>YES(1)</td>
+    </tr>
+    </tr>
+        <td>0.1.3(alpha)</td>
+        <td><a href="https://dekotas.org/MCPE/MCPE%200.1.3.ipa">Download</a></td>
         <td>YES(1)</td>
     </tr>
 </table>
