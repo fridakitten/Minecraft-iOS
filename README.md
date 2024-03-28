@@ -193,6 +193,78 @@
         <td>N/A</td>
         <td>N/A</td>
     </tr>
+    <tr>
+        <td>0.12.2(alpha)</td>
+        <td><a href="https://dekotas.org/MCPE/MCPE%200.12.2.ipa">Download</a></td>
+        <td>YES</td>
+        <td>5.1.1</td>
+    </tr>
+    <tr>
+        <td>0.12.3(alpha)</td>
+        <td><a href="https://dekotas.org/MCPE/MCPE%200.12.3.ipa">Download</a></td>
+        <td>YES</td>
+        <td>5.1.1</td>
+    </tr>
+    <tr>
+        <td>0.13(alpha)</td>
+        <td>Lost</td>
+        <td>N/A</td>
+        <td>N/A</td>
+    </tr>
+    <tr>
+        <td>0.13.1(alpha)</td>
+        <td><a href="https://dekotas.org/MCPE/MCPE%200.13.1.ipa">Download</a></td>
+        <td>YES</td>
+        <td>5.1.1</td>
+    </tr>
+    <tr>
+        <td>0.13.2(alpha)</td>
+        <td><a href="https://dekotas.org/MCPE/MCPE%200.13.2.ipa">Download</a></td>
+        <td>YES</td>
+        <td>5.1.1</td>
+    </tr>
+    <tr>
+        <td>0.14(alpha)</td>
+        <td><a href="https://dekotas.org/MCPE/MCPE%200.14.0.ipa">Download</a></td>
+        <td>YES</td>
+        <td>5.1.1</td>
+    </tr>
+    <tr>
+        <td>0.14.1(alpha)</td>
+        <td>Lost</td>
+        <td>N/A</td>
+        <td>N/A</td>
+    </tr>
+    <tr>
+        <td>0.14.2(alpha)</td>
+        <td><a href="https://dekotas.org/MCPE/MCPE%200.14.2.ipa">Download</a></td>
+        <td>YES</td>
+        <td>6.0</td>
+    </tr>
+    <tr>
+        <td>0.14.3(alpha)</td>
+        <td><a href="https://dekotas.org/MCPE/MCPE%200.14.3.ipa">Download</a></td>
+        <td>YES</td>
+        <td>6.0</td>
+    </tr>
+    <tr>
+        <td>0.15(alpha)</td>
+        <td>Lost</td>
+        <td>N/A</td>
+        <td>N/A</td>
+    </tr>
+    <tr>
+        <td>0.16(alpha)</td>
+        <td>Lost</td>
+        <td>N/A</td>
+        <td>N/A</td>
+    </tr>
+    <tr>
+        <td>0.16.1(alpha)</td>
+        <td><a href="https://dekotas.org/MCPE/MCPE%200.16.1.ipa">Download</a></td>
+        <td>YES</td>
+        <td>8.0</td>
+    </tr>
 </table>
 
 
