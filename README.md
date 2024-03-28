@@ -368,15 +368,15 @@
     </tr>
     <tr>
         <td>1.1.2</td>
-        <td>Missing</td>
-        <td>N/A</td>
-        <td>N/A</td>
+        <td><a href="https://dekotas.org/MCPE/MCPE%201.1.2.ipa">Download</a></td>
+        <td>YES</td>
+        <td>8.0</td>
     </tr>
     <tr>
         <td>1.1.3</td>
-        <td>Missing</td>
-        <td>N/A</td>
-        <td>N/A</td>
+        <td><a href="https://dekotas.org/MCPE/MCPE%201.1.3.ipa">Download</a></td>
+        <td>YES</td>
+        <td>8.0</td>
     </tr>
     <tr>
         <td>1.1.4</td>
@@ -386,13 +386,13 @@
     </tr>
     <tr>
         <td>1.1.5</td>
-        <td>Missing</td>
-        <td>N/A</td>
-        <td>N/A</td>
+        <td><a href="https://dekotas.org/MCPE/MCPE%201.1.5.ipa">Download</a></td>
+        <td>YES</td>
+        <td>8.0</td>
     </tr>
     <tr>
         <td>1.1.6</td>
-        <td>Missing</td>
+        <td>N/A</td>
         <td>N/A</td>
         <td>N/A</td>
     </tr>
