@@ -63,6 +63,18 @@
         <td>4.3</td>
     </tr>
     <tr>
+        <td>0.4.1</td>
+        <td>Missing</td>
+        <td>N/A</td>
+        <td>N/A</td>
+    </tr>
+    <tr>
+        <td>0.4.2</td>
+        <td>Missing</td>
+        <td>N/A</td>
+        <td>N/A</td>
+    </tr>
+    <tr>
         <td>0.5</td>
         <td><a href="https://dekotas.org/MCPE/MCPE%200.5.0.ipa">Download</a></td>
         <td>YES</td>
