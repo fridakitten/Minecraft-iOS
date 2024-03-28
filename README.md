@@ -181,7 +181,20 @@
         <td>YES</td>
         <td>5.1.1</td>
     </tr>
+    <tr>
+        <td>0.12(alpha)</td>
+        <td>Lost</td></td>
+        <td>N/A</td>
+        <td>N/A</td>
+    </tr>
+    <tr>
+        <td>0.12.1(alpha)</td>
+        <td>Lost</td>
+        <td>N/A</td>
+        <td>N/A</td>
+    </tr>
 </table>
+
 
 ## Decription
 Lost means that we only found encrypted ipas of the mcpe version. encrypted means that it doesnt work as long as someone decrpted it.
