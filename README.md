@@ -256,15 +256,75 @@
     </tr>
     <tr>
         <td>0.15</td>
+        <td><a href="https://dekotas.org/MCPE/MCPE%200.15.0.ipa">Download</a></td>
+        <td>YES</td>
+        <td>8.0</td>
+    </tr>
+    <tr>
+        <td>0.15.1</td>
+        <td>Missing</td>
+        <td>N/A</td>
+        <td>N/A</td>
+    </tr>
+    <tr>
+        <td>0.15.2</td>
+        <td><a href="https://dekotas.org/MCPE/MCPE%200.15.2.ipa">Download</a></td>
+        <td>YES</td>
+        <td>8.0</td>
+    </tr>
+    <tr>
+        <td>0.15.3</td>
+        <td>Missing</td>
+        <td>N/A</td>
+        <td>N/A</td>
+    </tr>
+    <tr>
+        <td>0.15.4</td>
+        <td><a href="https://dekotas.org/MCPE/MCPE%200.15.4.ipa">Download</a></td>
+        <td>YES</td>
+        <td>8.0</td>
+    </tr>
+    <tr>
+        <td>0.15.5</td>
+        <td>not on ios</td>
+        <td>N/A</td>
+        <td>N/A</td>
+    </tr>
+    <tr>
+        <td>0.15.6</td>
+        <td><a href="https://dekotas.org/MCPE/MCPE%200.15.6.ipa">Download</a></td>
+        <td>YES</td>
+        <td>8.0</td>
+    </tr>
+    <tr>
+        <td>0.15.7</td>
+        <td><a href="https://dekotas.org/MCPE/MCPE%200.15.7.ipa">Download</a></td>
+        <td>YES</td>
+        <td>8.0</td>
+    </tr>
+    <tr>
+        <td>0.15.8</td>
+        <td><a href="https://dekotas.org/MCPE/MCPE%200.15.8.ipa">Download</a></td>
+        <td>YES</td>
+        <td>8.0</td>
+    </tr>
+    <tr>
+        <td>0.15.9</td>
+        <td><a href="https://dekotas.org/MCPE/MCPE%200.15.9.ipa">Download</a></td>
+        <td>YES</td>
+        <td>8.0</td>
+    </tr>
+    <tr>
+        <td>0.15.10</td>
         <td>Missing</td>
         <td>N/A</td>
         <td>N/A</td>
     </tr>
     <tr>
         <td>0.16</td>
-        <td>Missing</td>
-        <td>N/A</td>
-        <td>N/A</td>
+        <td><a href="https://dekotas.org/MCPE/MCPE%200.16.0.ipa">Download</a></td>
+        <td>YES</td>
+        <td>8.0</td>
     </tr>
     <tr>
         <td>0.16.1</td>
