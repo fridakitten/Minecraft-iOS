@@ -40,7 +40,7 @@
     </tr>
     <tr>
         <td>0.3.1</td>
-        <td>Lost</td>
+        <td>Missing</td>
         <td>N/A</td>
         <td>N/A</td>
     </tr>
@@ -142,7 +142,7 @@
     </tr>
     <tr>
         <td>0.9.1</td>
-        <td>Lost</td>
+        <td>Missing</td>
         <td>N/A</td>
         <td>N/A</td>
     </tr>
@@ -154,7 +154,7 @@
     </tr>
     <tr>
         <td>0.9.3</td>
-        <td>Lost</td>
+        <td>Missing</td>
         <td>N/A</td>
         <td>N/A</td>
     </tr>
@@ -184,13 +184,13 @@
     </tr>
     <tr>
         <td>0.12</td>
-        <td>Lost</td></td>
+        <td>Missing</td></td>
         <td>N/A</td>
         <td>N/A</td>
     </tr>
     <tr>
         <td>0.12.1</td>
-        <td>Lost</td>
+        <td>Missing</td>
         <td>N/A</td>
         <td>N/A</td>
     </tr>
@@ -208,7 +208,7 @@
     </tr>
     <tr>
         <td>0.13</td>
-        <td>Lost</td>
+        <td>Missing</td>
         <td>N/A</td>
         <td>N/A</td>
     </tr>
@@ -232,7 +232,7 @@
     </tr>
     <tr>
         <td>0.14.1</td>
-        <td>Lost</td>
+        <td>Missing</td>
         <td>N/A</td>
         <td>N/A</td>
     </tr>
@@ -250,13 +250,13 @@
     </tr>
     <tr>
         <td>0.15</td>
-        <td>Lost</td>
+        <td>Missing</td>
         <td>N/A</td>
         <td>N/A</td>
     </tr>
     <tr>
         <td>0.16</td>
-        <td>Lost</td>
+        <td>Missing</td>
         <td>N/A</td>
         <td>N/A</td>
     </tr>
