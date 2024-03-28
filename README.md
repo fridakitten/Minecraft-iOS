@@ -269,6 +269,26 @@
 </table>
 
 ## Major
+<table>
+    <tr>
+        <th>Version</th>
+        <th>Download</th>
+        <th>Works</th>
+        <th>Minimum-OS</th>
+    </tr>
+    <tr>
+        <td>1.1.0</td>
+        <td><a href="https://dekotas.org/MCPE/MCPE%201.1.0.ipa">Download</a></td>
+        <td>YES</td>
+        <td>8.0</td>
+    </tr>
+    <tr>
+        <td>1.1.7</td>
+        <td><a href="https://dekotas.org/MCPE/MCPE%201.1.7.ipa">Download</a></td>
+        <td>YES</td>
+        <td>8.0</td>
+    </tr>
+</table>
 
 ## Decription
 Lost means that we only found encrypted ipas of the mcpe version. encrypted means that it doesnt work as long as someone decrpted it.
