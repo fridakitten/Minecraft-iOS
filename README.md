@@ -342,7 +342,7 @@
 We have a community were we do a lot of things iOS related but also the search for MCPE ipa files.
 join us if you are interested [on Discord](https://discord.gg/84QhU3Bd).
 
-## Decription
+## Description
 Missing means that we only found encrypted .ipa files of that version. Encrypted means that the version doesn't work, unless someone decrypted it.
 
 ## Disclamer
