@@ -290,13 +290,6 @@
         <td>.nikitapro.</td>
     </tr>
     <tr>
-        <td>0.15.5</td>
-        <td>not on ios</td>
-        <td>N/A</td>
-        <td>N/A</td>
-        <td>N/A</td>
-    </tr>
-    <tr>
         <td>0.15.6</td>
         <td><a href="https://dekotas.org/MCPE/MCPE%200.15.6.ipa">Download</a></td>
         <td>YES</td>
