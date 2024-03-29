@@ -45,13 +45,6 @@
         <td>fridakitten</td>
     </tr>
     <tr>
-        <td>0.3.1</td>
-        <td>N/A</td>
-        <td>N/A</td>
-        <td>N/A</td>
-        <td>N/A</td>
-    </tr>
-    <tr>
         <td>0.3.2</td>
         <td><a href="https://dekotas.org/MCPE/MCPE%200.3.2.ipa">Download</a></td>
         <td>YES</td>
@@ -164,13 +157,6 @@
         <td>fridakitten</td>
     </tr>
     <tr>
-        <td>0.9.1</td>
-        <td>not on ios</td>
-        <td>N/A</td>
-        <td>N/A</td>
-        <td>N/A</td>
-    </tr>
-    <tr>
         <td>0.9.2</td>
         <td><a href="https://dekotas.org/MCPE/MCPE%200.9.2.ipa">Download</a></td>
         <td>YES</td>
@@ -218,13 +204,6 @@
         <td>YES</td>
         <td>5.1.1</td>
         <td>.nikitapro.</td>
-    </tr>
-    <tr>
-        <td>0.12</td>
-        <td>not on ios</td></td>
-        <td>N/A</td>
-        <td>N/A</td>
-        <td>N/A</td>
     </tr>
     <tr>
         <td>0.12.1</td>
@@ -304,25 +283,11 @@
         <td>.nikitapro.</td>
     </tr>
     <tr>
-        <td>0.15.1</td>
-        <td>Missing</td>
-        <td>N/A</td>
-        <td>N/A</td>
-        <td>N/A</td>
-    </tr>
-    <tr>
         <td>0.15.2</td>
         <td><a href="https://dekotas.org/MCPE/MCPE%200.15.2.ipa">Download</a></td>
         <td>YES</td>
         <td>8.0</td>
         <td>.nikitapro.</td>
-    </tr>
-    <tr>
-        <td>0.15.3</td>
-        <td>Missing</td>
-        <td>N/A</td>
-        <td>N/A</td>
-        <td>N/A</td>
     </tr>
     <tr>
         <td>0.15.4</td>
