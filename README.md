@@ -406,7 +406,7 @@
         <td><a href="https://dekotas.org/MCPE/MCPE%200.16.2.ipa">Download</a></td>
         <td>YES</td>
         <td>8.0</td>
-        <td>fridakitten</td>
+        <td>.nikitapro.</td>
     </tr>
 </table>
 
@@ -417,22 +417,26 @@
         <th>Download</th>
         <th>Works</th>
         <th>Minimum-OS</th>
+        <th>Found by</th>
     </tr>
     <tr>
         <td>1.0</td>
         <td><a href="https://dekotas.org/MCPE/MCPE%201.0.0.ipa">Download</a></td>
         <td>YES</td>
         <td>8.0</td>
+        <td>fridakitten</td>
     </tr>
     <tr>
         <td>1.1</td>
         <td><a href="https://dekotas.org/MCPE/MCPE%201.1.0.ipa">Download</a></td>
         <td>YES</td>
         <td>8.0</td>
+        <td>.nikitapro.</td>
     </tr>
     <tr>
         <td>1.1.1</td>
         <td>Missing</td>
+        <td>N/A</td>
         <td>N/A</td>
         <td>N/A</td>
     </tr>
@@ -441,27 +445,32 @@
         <td><a href="https://dekotas.org/MCPE/MCPE%201.1.2.ipa">Download</a></td>
         <td>YES</td>
         <td>8.0</td>
+        <td>.nikitapro.</td>
     </tr>
     <tr>
         <td>1.1.3</td>
         <td><a href="https://dekotas.org/MCPE/MCPE%201.1.3.ipa">Download</a></td>
         <td>YES</td>
         <td>8.0</td>
+        <td>.nikitapro.</td>
     </tr>
     <tr>
         <td>1.1.4</td>
         <td><a href="https://dekotas.org/MCPE/MCPE%201.1.4.ipa">Download</a></td>
         <td>YES</td>
         <td>8.0</td>
+        <td>.nikitapro.</td>
     </tr>
     <tr>
         <td>1.1.5</td>
         <td><a href="https://dekotas.org/MCPE/MCPE%201.1.5.ipa">Download</a></td>
         <td>YES</td>
         <td>8.0</td>
+        <td>.nikitapro.</td>
     </tr>
     <tr>
         <td>1.1.6</td>
+        <td>N/A</td>
         <td>N/A</td>
         <td>N/A</td>
         <td>N/A</td>
@@ -471,6 +480,7 @@
         <td><a href="https://dekotas.org/MCPE/MCPE%201.1.7.ipa">Download</a></td>
         <td>YES</td>
         <td>8.0</td>
+        <td>.nikitapro.</td>
     </tr>
 </table>
 
