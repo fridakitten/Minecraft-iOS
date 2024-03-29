@@ -431,7 +431,7 @@
         <td><a href="https://dekotas.org/MCPE/MCPE%201.1.0.ipa">Download</a></td>
         <td>YES</td>
         <td>8.0</td>
-        <td>.nikitapro.</td>
+        <td>fridakitten</td>
     </tr>
     <tr>
         <td>1.1.1</td>
