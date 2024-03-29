@@ -365,17 +365,17 @@
     </tr>
     <tr>
         <td>1.0.1</td>
-        <td>Missing</td>
-        <td>N/A</td>
-        <td>N/A</td>
-        <td>N/A</td>
+        <td><a href="https://dekotas.org/MCPE/MCPE%201.0.1.ipa">Download</a></td>
+        <td>YES</td>
+        <td>8.0</td>
+        <td>.nikitapro.</td>
     </tr>
     <tr>
         <td>1.0.2</td>
-        <td>Missing</td>
-        <td>N/A</td>
-        <td>N/A</td>
-        <td>N/A</td>
+        <td><a href="https://dekotas.org/MCPE/MCPE%201.0.2.ipa">Download</a></td>
+        <td>YES</td>
+        <td>8.0</td>
+        <td>.nikitapro.</td>
     </tr>
     <tr>
         <td>1.0.3</td>
@@ -383,6 +383,48 @@
         <td>N/A</td>
         <td>N/A</td>
         <td>N/A</td>
+    </tr>
+    <tr>
+        <td>1.0.4</td>
+        <td><a href="https://dekotas.org/MCPE/MCPE%201.0.4.ipa">Download</a></td>
+        <td>YES</td>
+        <td>8.0</td>
+        <td>.nikitapro.</td>
+    </tr>
+    <tr>
+        <td>1.0.5</td>
+        <td><a href="https://dekotas.org/MCPE/MCPE%201.0.5.ipa">Download</a></td>
+        <td>YES</td>
+        <td>8.0</td>
+        <td>.nikitapro.</td>
+    </tr>
+    <tr>
+        <td>1.0.6</td>
+        <td><a href="https://dekotas.org/MCPE/MCPE%201.0.6.ipa">Download</a></td>
+        <td>YES</td>
+        <td>8.0</td>
+        <td>.nikitapro.</td>
+    </tr>
+    <tr>
+        <td>1.0.7</td>
+        <td><a href="https://dekotas.org/MCPE/MCPE%201.0.7.ipa">Download</a></td>
+        <td>YES</td>
+        <td>8.0</td>
+        <td>.nikitapro.</td>
+    </tr>
+    <tr>
+        <td>1.0.8</td>
+        <td><a href="https://dekotas.org/MCPE/MCPE%201.0.8.ipa">Download</a></td>
+        <td>YES</td>
+        <td>8.0</td>
+        <td>.nikitapro.</td>
+    </tr>
+    <tr>
+        <td>1.0.9</td>
+        <td><a href="https://dekotas.org/MCPE/MCPE%201.0.9.ipa">Download</a></td>
+        <td>YES</td>
+        <td>8.0</td>
+        <td>.nikitapro.</td>
     </tr>
     <tr>
         <td>1.1</td>
