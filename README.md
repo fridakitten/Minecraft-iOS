@@ -179,7 +179,7 @@
     </tr>
     <tr>
         <td>0.9.1</td>
-        <td>Missing</td>
+        <td>not on ios</td>
         <td>N/A</td>
         <td>N/A</td>
         <td>N/A</td>
@@ -193,7 +193,7 @@
     </tr>
     <tr>
         <td>0.9.3</td>
-        <td>Missing</td>
+        <td>not on ios</td>
         <td>N/A</td>
         <td>N/A</td>
         <td>N/A</td>
