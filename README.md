@@ -604,7 +604,7 @@ Missing means that we only found encrypted .ipa files of that version. Encrypted
         <td>0.11+</td>
     </tr>
 </table>
-iOS 10 which is compatible with 32bit apps aswell may be able to run MCPE 0.1.2+ on modern devices(A7 - A10)
+iOS 10 which is compatible with 32bit apps may be able to run MCPE 0.1.2+ on modern devices(A7 - A10)
 
 ## Disclamer
 We do not and will never support piracy, so we won't host any .ipa files for Minecraft Bedrock(except 1.2.x as 1.2.x is historical, cause they are the first Bedrock versions). This is solely for archival and historical purposes and to maintain the existence of Minecraft Pocket Edition, as it is important to us that it does not become lost media.
