@@ -433,6 +433,48 @@
         <td>8.0</td>
         <td>fridakitten</td>
     </tr>
+    <tr>
+        <td>1.2.1</td>
+        <td>Missing</td>
+        <td>N/A</td>
+        <td>N/A</td>
+        <td>N/A</td>
+    </tr>
+    <tr>
+        <td>1.2.8</td>
+        <td>Missing</td>
+        <td>N/A</td>
+        <td>N/A</td>
+        <td>N/A</td>
+    </tr>
+    <tr>
+        <td>1.2.11</td>
+        <td>Missing</td>
+        <td>N/A</td>
+        <td>N/A</td>
+        <td>N/A</td>
+    </tr>
+    <tr>
+        <td>1.2.13</td>
+        <td>Missing</td>
+        <td>N/A</td>
+        <td>N/A</td>
+        <td>N/A</td>
+    </tr>
+    <tr>
+        <td>1.2.14</td>
+        <td>Missing</td>
+        <td>N/A</td>
+        <td>N/A</td>
+        <td>N/A</td>
+    </tr>
+    <tr>
+        <td>1.2.15</td>
+        <td>Missing</td>
+        <td>N/A</td>
+        <td>N/A</td>
+        <td>N/A</td>
+    </tr>
 </table>
 
 ## Fridamunity
