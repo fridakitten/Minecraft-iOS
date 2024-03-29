@@ -322,7 +322,7 @@
         <td>Missing</td>
         <td>N/A</td>
         <td>N/A</td>
-        <td>.nikitapro.</td>
+        <td>N/A</td>
     </tr>
     <tr>
         <td>0.15.2</td>
