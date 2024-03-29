@@ -443,4 +443,4 @@ join us if you are interested [on Discord](https://discord.gg/84QhU3Bd).
 Missing means that we only found encrypted .ipa files of that version. Encrypted means that the version doesn't work, unless someone decrypted it.
 
 ## Disclamer
-We do not and will never support piracy, so we won't host any .ipa files for Minecraft Bedrock. This is solely for archival and historical purposes and to maintain the existence of Minecraft Pocket Edition, as it is important to us that it does not become lost media.
+We do not and will never support piracy, so we won't host any .ipa files for Minecraft Bedrock(except 2.x as 2.x is historical, cause thez are the first Bedrock versions). This is solely for archival and historical purposes and to maintain the existence of Minecraft Pocket Edition, as it is important to us that it does not become lost media.
