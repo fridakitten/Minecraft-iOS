@@ -434,6 +434,13 @@
         <td>fridakitten</td>
     </tr>
     <tr>
+        <td>1.2.0</td>
+        <td>Missing</td>
+        <td>N/A</td>
+        <td>N/A</td>
+        <td>N/A</td>
+    </tr>
+    <tr>
         <td>1.2.1</td>
         <td>Missing</td>
         <td>N/A</td>
@@ -441,7 +448,63 @@
         <td>N/A</td>
     </tr>
     <tr>
+        <td>1.2.2</td>
+        <td>Missing</td>
+        <td>N/A</td>
+        <td>N/A</td>
+        <td>N/A</td>
+    </tr>
+    <tr>
+        <td>1.2.1</td>
+        <td>Missing</td>
+        <td>N/A</td>
+        <td>N/A</td>
+        <td>N/A</td>
+    </tr>
+    <tr>
+        <td>1.2.3</td>
+        <td>Missing</td>
+        <td>N/A</td>
+        <td>N/A</td>
+        <td>N/A</td>
+    </tr>
+    <tr>
+        <td>1.2.5</td>
+        <td>Missing</td>
+        <td>N/A</td>
+        <td>N/A</td>
+        <td>N/A</td>
+    </tr>
+    <tr>
+        <td>1.2.6</td>
+        <td>Missing</td>
+        <td>N/A</td>
+        <td>N/A</td>
+        <td>N/A</td>
+    </tr>
+    <tr>
+        <td>1.2.7</td>
+        <td>Missing</td>
+        <td>N/A</td>
+        <td>N/A</td>
+        <td>N/A</td>
+    </tr>
+    <tr>
         <td>1.2.8</td>
+        <td>Missing</td>
+        <td>N/A</td>
+        <td>N/A</td>
+        <td>N/A</td>
+    </tr>
+    <tr>
+        <td>1.2.9</td>
+        <td>Missing</td>
+        <td>N/A</td>
+        <td>N/A</td>
+        <td>N/A</td>
+    </tr>
+    <tr>
+        <td>1.2.10</td>
         <td>Missing</td>
         <td>N/A</td>
         <td>N/A</td>
@@ -470,6 +533,13 @@
     </tr>
     <tr>
         <td>1.2.15</td>
+        <td>Missing</td>
+        <td>N/A</td>
+        <td>N/A</td>
+        <td>N/A</td>
+    </tr>
+    <tr>
+        <td>1.2.16</td>
         <td>Missing</td>
         <td>N/A</td>
         <td>N/A</td>
