@@ -164,13 +164,6 @@
         <td>fridakitten</td>
     </tr>
     <tr>
-        <td>0.9.3</td>
-        <td>not on ios</td>
-        <td>N/A</td>
-        <td>N/A</td>
-        <td>N/A</td>
-    </tr>
-    <tr>
         <td>0.9.4</td>
         <td><a href="https://dekotas.org/MCPE/MCPE%200.9.4.ipa">Download</a></td>
         <td>YES</td>
