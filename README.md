@@ -427,6 +427,27 @@
         <td>.nikitapro.</td>
     </tr>
     <tr>
+        <td>1.0.1</td>
+        <td>Missing</td>
+        <td>N/A</td>
+        <td>N/A</td>
+        <td>N/A</td>
+    </tr>
+    <tr>
+        <td>1.0.2</td>
+        <td>Missing</td>
+        <td>N/A</td>
+        <td>N/A</td>
+        <td>N/A</td>
+    </tr>
+    <tr>
+        <td>1.0.3</td>
+        <td>Missing</td>
+        <td>N/A</td>
+        <td>N/A</td>
+        <td>N/A</td>
+    </tr>
+    <tr>
         <td>1.1</td>
         <td><a href="https://dekotas.org/MCPE/MCPE%201.1.0.ipa">Download</a></td>
         <td>YES</td>
