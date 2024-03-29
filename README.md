@@ -497,13 +497,6 @@
         <td>N/A</td>
     </tr>
     <tr>
-        <td>1.2.1</td>
-        <td>Missing</td>
-        <td>N/A</td>
-        <td>N/A</td>
-        <td>N/A</td>
-    </tr>
-    <tr>
         <td>1.2.3</td>
         <td>Missing</td>
         <td>N/A</td>
@@ -512,10 +505,10 @@
     </tr>
     <tr>
         <td>1.2.5</td>
-        <td>Missing</td>
-        <td>N/A</td>
-        <td>N/A</td>
-        <td>N/A</td>
+        <td><a href="https://dekotas.org/MCPE/MCPE%201.2.5.ipa">Download</a></td>
+        <td>YES</td>
+        <td>8.0</td>
+        <td>benlim28</td>
     </tr>
     <tr>
         <td>1.2.6</td>
