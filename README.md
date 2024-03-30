@@ -498,10 +498,10 @@
     </tr>
     <tr>
         <td>1.2.3</td>
-        <td>Missing</td>
-        <td>N/A</td>
-        <td>N/A</td>
-        <td>N/A</td>
+        <td><a href="https://dekotas.org/MCPE/MCPE%201.2.3.ipa">Download</a></td>
+        <td>YES</td>
+        <td>8.0</td>
+        <td>.nikitapro.</td>
     </tr>
     <tr>
         <td>1.2.5</td>
@@ -512,10 +512,10 @@
     </tr>
     <tr>
         <td>1.2.6</td>
-        <td>Missing</td>
-        <td>N/A</td>
-        <td>N/A</td>
-        <td>N/A</td>
+        <td><a href="https://dekotas.org/MCPE/MCPE%201.2.6.ipa">Download</a></td>
+        <td>YES</td>
+        <td>8.0</td>
+        <td>.nikitapro.</td>
     </tr>
     <tr>
         <td>1.2.7</td>
@@ -533,10 +533,10 @@
     </tr>
     <tr>
         <td>1.2.9</td>
-        <td>Missing</td>
-        <td>N/A</td>
-        <td>N/A</td>
-        <td>N/A</td>
+        <td><a href="https://dekotas.org/MCPE/MCPE%201.2.9.ipa">Download</a></td>
+        <td>YES</td>
+        <td>8.0</td>
+        <td>.nikitapro.</td>
     </tr>
     <tr>
         <td>1.2.10</td>
@@ -575,10 +575,10 @@
     </tr>
     <tr>
         <td>1.2.16</td>
-        <td>Missing</td>
-        <td>N/A</td>
-        <td>N/A</td>
-        <td>N/A</td>
+        <td><a href="https://dekotas.org/MCPE/MCPE%201.2.16.ipa">Download</a></td>
+        <td>YES</td>
+        <td>8.0</td>
+        <td>.nikitapro.</td>
     </tr>
 </table>
 
