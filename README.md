@@ -1,6 +1,6 @@
 # Minecraft iOS
 
-## Fridamunity
+## Description
 We have a community were we do a lot of things iOS related but also the search for MCPE ipa files.
 join us if you are interested [on Discord](https://discord.gg/84QhU3Bd).
 
