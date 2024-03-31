@@ -8,6 +8,8 @@ join us if you are interested [on Discord](https://discord.gg/84QhU3Bd).
 > Missing means that we only found encrypted .ipa files of that version. Encrypted means that the version doesn't work, unless someone decrypted it.
 
 > [!TIP]
+> We made a compatibility chart.
+> </br>
 > <table>
 >    <tr>
 >        <th>CPU</th>
@@ -26,7 +28,7 @@ join us if you are interested [on Discord](https://discord.gg/84QhU3Bd).
 > iOS 10 which is compatible with 32bit apps may be able to run MCPE 0.1.2+ on modern devices(A7 - A10)
 
 > [!IMPORTANT]
-> We do not and will never support piracy, so we won't host any .ipa files for Minecraft Bedrock(except 1.2.x as 1.2.x is historical, cause they are the first Bedrock versions). This is solely for archival and > > historical purposes and to maintain the existence of Minecraft Pocket Edition, as it is important to us that it does not become lost media.
+> We do not and will never support piracy, so we won't host any .ipa files for Minecraft Bedrock(except 1.2.x as 1.2.x is historical, cause they are the first Bedrock versions). This is solely for archival and historical purposes and to maintain the existence of Minecraft Pocket Edition, as it is important to us that it does not become lost media.
 
 ## Archive
 ### Alpha
