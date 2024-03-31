@@ -1,6 +1,34 @@
 # Minecraft iOS
 
-## Alpha
+## Fridamunity
+We have a community were we do a lot of things iOS related but also the search for MCPE ipa files.
+join us if you are interested [on Discord](https://discord.gg/84QhU3Bd).
+
+## Description
+Missing means that we only found encrypted .ipa files of that version. Encrypted means that the version doesn't work, unless someone decrypted it.
+
+## Compatibility
+<table>
+    <tr>
+        <th>CPU</th>
+        <th>MCPE Version</th>
+    </tr>
+    <tr>
+        <td>A4 - A6</td>
+        <td>0.1.2+</td>
+    </tr>
+    <tr>
+        <td>A7 - A17</td>
+        <td>0.11+</td>
+    </tr>
+</table>
+iOS 10 which is compatible with 32bit apps may be able to run MCPE 0.1.2+ on modern devices(A7 - A10)
+
+## Disclamer
+We do not and will never support piracy, so we won't host any .ipa files for Minecraft Bedrock(except 1.2.x as 1.2.x is historical, cause they are the first Bedrock versions). This is solely for archival and historical purposes and to maintain the existence of Minecraft Pocket Edition, as it is important to us that it does not become lost media.
+
+## Archive
+### Alpha
 <table>
     <tr>
         <th>Version</th>
@@ -347,7 +375,7 @@
     </tr>
 </table>
 
-## Major
+### Major
 <table>
     <tr>
         <th>Version</th>
@@ -581,30 +609,3 @@
         <td>.nikitapro.</td>
     </tr>
 </table>
-
-## Fridamunity
-We have a community were we do a lot of things iOS related but also the search for MCPE ipa files.
-join us if you are interested [on Discord](https://discord.gg/84QhU3Bd).
-
-## Description
-Missing means that we only found encrypted .ipa files of that version. Encrypted means that the version doesn't work, unless someone decrypted it.
-
-## Compatibility
-<table>
-    <tr>
-        <th>CPU</th>
-        <th>MCPE Version</th>
-    </tr>
-    <tr>
-        <td>A4 - A6</td>
-        <td>0.1.2+</td>
-    </tr>
-    <tr>
-        <td>A7 - A17</td>
-        <td>0.11+</td>
-    </tr>
-</table>
-iOS 10 which is compatible with 32bit apps may be able to run MCPE 0.1.2+ on modern devices(A7 - A10)
-
-## Disclamer
-We do not and will never support piracy, so we won't host any .ipa files for Minecraft Bedrock(except 1.2.x as 1.2.x is historical, cause they are the first Bedrock versions). This is solely for archival and historical purposes and to maintain the existence of Minecraft Pocket Edition, as it is important to us that it does not become lost media.
