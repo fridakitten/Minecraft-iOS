@@ -556,10 +556,10 @@
     </tr>
     <tr>
         <td>1.2.8</td>
-        <td>Missing</td>
-        <td>N/A</td>
-        <td>N/A</td>
-        <td>N/A</td>
+        <td><a href="https://dekotas.org/MCPE/MCPE%201.2.8.ipa">Download</a></td>
+        <td>YES</td>
+        <td>8.0</td>
+        <td>.nikitapro.</td>
     </tr>
     <tr>
         <td>1.2.9</td>
